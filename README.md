@@ -2,7 +2,7 @@
 
 Welcome to my Angry Birds game remake, inspired by the iconic mobile game developed by Rovio Entertainment.
 
-![angry](https://github.com/najlae01/angry-birds/assets/88176530/d6204ee6-1554-41c4-a5df-7e491ce668ab)
+![angry](https://github.com/najlae01/angry-birds/assets/88176530/bc5b2e60-ed53-4e99-8fa5-3b594e28f727)
 
 
 ## Introduction
