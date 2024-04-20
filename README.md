@@ -7,7 +7,7 @@ Welcome to my Angry Birds game remake, inspired by the iconic mobile game develo
 
 ## Introduction
 
-Angry Birds is a physics-based puzzle game where players use a slingshot to launch birds at structures containing pigs. The goal is to eliminate all the pigs on the playing field using as few birds as possible.
+Angry Birds is a physics-based puzzle game where players use a slingshot to launch aliens at structures containing pigs. The goal is to eliminate all the enemies on the playing field using as few aliens as possible.
 
 ## Features
 
